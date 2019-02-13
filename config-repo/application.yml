@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/tianhuan168/boot-cloud-config/
           search-paths: config-repo
           username: 565267436@qq.com
-          password: xxxx
+          password: sssss
 eureka:
   client:
     service-url:
